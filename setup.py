@@ -9,7 +9,7 @@ setup(
     url='https://github.com/patrickkwang/small-kg',
     description='Small KG',
     packages=['small_kg'],
-    include_package_data=True,
+    package_data={'small_kg': ['*.csv']},
     zip_safe=False,
     license='MIT',
     python_requires='>=3.6',
