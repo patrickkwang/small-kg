@@ -1,0 +1,9 @@
+subject,predicate,object,origin
+CHEBI:6801,biolink:treats,MONDO:0005148,mychem
+CHEBI:6801,biolink:treats,MONDO:0005148,ctd
+CHEBI:47612,biolink:treats,MONDO:0005148,ctd
+CHEBI:136043,biolink:treats,MONDO:0005148,mychem
+CHEBI:6801,biolink:treats,MONDO:0011122,ctd
+CHEBI:47612,biolink:treats,MONDO:0011122,ctd
+MONDO:0005148,biolink:has_phenotype,HP:0004324,hetio
+MONDO:0011122,biolink:has_phenotype,HP:0004324,hetio

@@ -1,0 +1,7 @@
+id,category,name
+MONDO:0005148,biolink:Disease,type 2 diabetes mellitus
+MONDO:0011122,biolink:Disease,obesity disorder
+CHEBI:6801,biolink:ChemicalSubstance,metformin
+CHEBI:136043,biolink:ChemicalSubstance,anagliptin
+CHEBI:47612,biolink:ChemicalSubstance,bezafibrate
+HP:0004324,biolink:PhenotypicFeature,increased body weight

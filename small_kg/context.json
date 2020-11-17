@@ -1,0 +1,8 @@
+{
+    "CHEBI": "http://purl.obolibrary.org/obo/CHEBI_",
+    "DOID": "http://purl.obolibrary.org/obo/DOID_",
+    "HP": "http://purl.obolibrary.org/obo/HP_",
+    "MESH": "http://identifiers.org/mesh/",
+    "MONDO": "http://purl.obolibrary.org/obo/MONDO_",
+    "NCIT": "http://purl.obolibrary.org/obo/NCIT_"
+}
