@@ -1,0 +1,3 @@
+subject,predicate,object
+CHEBI:6801,biolink:treats,MONDO:0005148
+CHEBI:136043,biolink:treats,MONDO:0005148

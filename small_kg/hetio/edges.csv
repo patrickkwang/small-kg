@@ -1,0 +1,3 @@
+subject,predicate,object
+MONDO:0005148,biolink:has_phenotype,HP:0004324
+MONDO:0011122,biolink:has_phenotype,HP:0004324
