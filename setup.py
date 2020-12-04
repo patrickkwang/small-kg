@@ -8,7 +8,12 @@ setup(
     author_email='patrick@covar.com',
     url='https://github.com/patrickkwang/small-kg',
     description='Small KG',
-    packages=['small_kg'],
+    packages=[
+        'small_kg',
+        'small_kg.ctd',
+        'small_kg.hetio',
+        'small_kg.mychem',
+    ],
     package_data={'small_kg': ['*.csv', '*/*.csv']},
     zip_safe=False,
     license='MIT',
