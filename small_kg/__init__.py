@@ -1,9 +1,9 @@
 """Initialize."""
 import os
 
-import small_kg.ctd
-import small_kg.hetio
-import small_kg.mychem
+from small_kg import ctd
+from small_kg import hetio
+from small_kg import mychem
 
 _package_dir, _ = os.path.split(__file__)
 
